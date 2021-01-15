@@ -44,3 +44,10 @@ body {
   width: 100%;
   height: 200px;
 }
+#gameScore{
+  left: 50%;
+  top: 99%;
+  width: auto;
+  height: 200px;
+  text-align: center;
+}
